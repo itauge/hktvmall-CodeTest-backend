@@ -1,6 +1,6 @@
 # HktvmallCodeTestBackend
-####Backend: `SpringBoot`
-####Frontend: `Angular`
+Backend: `SpringBoot` \
+Frontend: `Angular`
 
 ## Setup
 
@@ -20,15 +20,15 @@
 
 ## Comment
 
-###Day 1
+Day 1 \
 Target  `->` Built up the backend API for getting the data\
 Problem `->` Date format change\
 Finish  `->` Whole backend API without the Date problem
 
-###Day 2
+Day 2 \
 Target `->` Built up the frontend interface\
 Problem `->` Web page layout and receiving json issues\
 Finish `->` Fix all the problem
 
-###Day 3
+Day 3 \
 finish the readme.md
